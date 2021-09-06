@@ -6,6 +6,6 @@ In this assignment, we were instructed to fetch from the API containing the film
 
 
 
-Portrait Mode: https://imgur.com/a/ppFZtVe
+Portrait Mode: https://imgur.com/a/ppFZtVe.gif
 
-Landscape Mode: https://imgur.com/a/FYlgbFV
+Landscape Mode: https://imgur.com/a/FYlgbFV.gif
