@@ -7,4 +7,5 @@ In this assignment, we were instructed to fetch from the API containing the film
 
 
 Portrait Mode: https://imgur.com/a/ppFZtVe
+
 Landscape Mode: https://imgur.com/a/FYlgbFV
