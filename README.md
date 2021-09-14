@@ -1,4 +1,11 @@
 # Flixster
 Assignment #1
 
-Portrait Mode: https://imgur.com/a/ppFZtVe
+
+In this assignment, we were instructed to fetch from the API containing the films, parse the JSON file & feed the datasource, then use Adapter/ViewHolder to get the items onto the screen.
+
+
+
+Portrait Mode: https://imgur.com/a/ppFZtVe.gif
+
+Landscape Mode: https://imgur.com/a/FYlgbFV.gif
